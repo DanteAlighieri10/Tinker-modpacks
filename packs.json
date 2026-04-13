@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cobblemon-pack",
+    "name": "Cobblemon Pack",
+    "description": "Mods oficiales del servidor Cobblemon de TinkerCraft Network",
+    "mc_version": "1.20.4",
+    "loader": "fabric",
+    "version": "1.0",
+    "author": "TinkerCraft Admin",
+    "color": "#00d4ff",
+    "mods": [
+      {
+        "name": "Fabric API",
+        "filename": "fabric-api-0.97.0+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/F2Cg0cNT/fabric-api-0.97.0%2B1.20.4.jar",
+        "size_mb": 2.1,
+        "required": true
+      },
+      {
+        "name": "Cobblemon",
+        "filename": "cobblemon-fabric-1.5.2+1.20.4.jar",
+        "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/wdddZf5P/cobblemon-fabric-1.5.2%2B1.20.4.jar",
+        "size_mb": 48.0,
+        "required": true
+      }
+    ]
+  }
+]
