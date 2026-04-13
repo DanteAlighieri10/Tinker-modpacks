@@ -1,0 +1,13 @@
+[
+  {
+    "id": "Coblemon",
+    "name": "Coblemon Pack",
+    "description": "Mods del servidor Coblemon",
+    "mc_version": "1.20.4",
+    "loader": "fabric",
+    "version": "1.0",
+    "author": "TIKERCRAFT",
+    "mods": [ {"sodium","filname":"sodium.jar","url":"URL_DIRECTA","size_mb":1.2}
+    ]
+  }
+]
